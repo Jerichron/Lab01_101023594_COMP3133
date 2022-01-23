@@ -1,0 +1,12 @@
+{
+  "name": "lab01_101023594_comp3133",
+  "version": "1.0.0",
+  "description": "Lab 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Adam Vandyke - 101023594",
+  "license": "ISC"
+}
